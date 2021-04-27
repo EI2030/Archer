@@ -14,6 +14,7 @@ The specification listed are preliminary and subject to change.
 - Main Screen: E Ink ED103TC2 (10.3" 1872x1404) with capactive touch screen
 - Sub Screen: ER-TFT0784-1 (7.84" 1280x400) with capactive touch screen
 - Screen Controller: RK3566 integrated EPDC
+- Battery: 2x User replaceable 18650 battery
 
 # Progress
 
