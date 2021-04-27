@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 30F-81ANL
+D Single Port Gigabit Ethernet Transformers
+K Single Port Gigabit Ethernet Transformer
+F https://www.haloelectronics.com/pdf/discrete-genesus.pdf
+$ENDCMP
+#
+$CMP RCLAMP3346P
+D Low Capacitance TVS Diode Array, 3.3V Standoff, 6 Channels
+K usb esd protection suppression transient
+$ENDCMP
+#
+#End Doc Library
