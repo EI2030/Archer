@@ -10,11 +10,11 @@ The specification listed are preliminary and subject to change.
 - SoC: Rockchip RK3566 (4x ARM Cortex-A55 @ 1.8GHz)
 - RAM: 2-8 GB LPDDR4
 - Flash: W25Q128JV (16 MBytes)
-- Network: AMPAK AP6256 (802.11 b/g/n/ac draft up to 433Mbps) 
+- Network: AMPAK AP6356S (802.11 b/g/n/ac draft up to 867Mbps) 
 - Main Screen: E Ink ED103TC2 (10.3" 1872x1404) with capactive touch screen
 - Sub Screen: ER-TFT0784-1 (7.84" 1280x400) with capactive touch screen
 - Screen Controller: RK3566 integrated EPDC
-- Battery: 2x User replaceable 18650 battery
+- Battery: 2x User replaceable 18650 battery (only 1x 18650 in R0.1)
 
 # Progress
 
