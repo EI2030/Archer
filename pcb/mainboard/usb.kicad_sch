@@ -1554,6 +1554,10 @@
   (no_connect (at 139.065 134.62) (uuid af5ee0cb-a8f4-4d68-ae8a-12a5bb8f4615))
   (no_connect (at 139.065 144.78) (uuid c68497f5-ae87-4049-8358-a227b1342634))
   (no_connect (at 139.065 147.32) (uuid 255cf45d-0269-4a5b-98d1-18a85d611fa7))
+  (no_connect (at 204.47 107.95) (uuid c9323476-cc65-4c15-acac-919f04dd37e7))
+  (no_connect (at 204.47 110.49) (uuid c9323476-cc65-4c15-acac-919f04dd37e7))
+  (no_connect (at 204.47 130.81) (uuid c9323476-cc65-4c15-acac-919f04dd37e7))
+  (no_connect (at 204.47 133.35) (uuid c9323476-cc65-4c15-acac-919f04dd37e7))
   (no_connect (at 240.03 90.17) (uuid 2e633099-4acb-47a0-a7ea-f032bcb41c07))
 
   (wire (pts (xy 52.705 127) (xy 52.705 134.62))
@@ -2284,6 +2288,10 @@
   (text "Switch can be turned off by I2C" (at 248.92 179.07 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 76db9c01-b0fb-432d-9a1a-3205c8fdee3d)
+  )
+  (text "Current revision doesn't support USB 3.0" (at 292.1 166.37 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid dfa4bee6-783e-4893-b908-105704d469cc)
   )
 
   (label "PPON4" (at 93.345 186.69 0)

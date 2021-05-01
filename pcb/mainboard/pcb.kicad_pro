@@ -345,7 +345,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "symbols"
+    ]
   },
   "meta": {
     "filename": "pcb.kicad_pro",
@@ -480,6 +482,10 @@
     [
       "8a775e2d-170b-4dae-98b1-d920b17f314a",
       "audio"
+    ],
+    [
+      "375e0a10-f948-48fc-a4eb-553ac6c7cac0",
+      "wifibt"
     ],
     [
       "00000000-0000-0000-0000-00005f25e656",
