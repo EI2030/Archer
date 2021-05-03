@@ -4,6 +4,16 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Archer")
+    (date "2021-04-26")
+    (rev "R0.1 draft")
+    (company "Copyright EI-2030 2021.")
+    (comment 2 "MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.")
+    (comment 3 "source is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF")
+    (comment 4 "This source describes Open Hardware and is licensed under the CERN-OHL-S v2. This ")
+  )
+
   (lib_symbols
     (symbol "Device:C" (pin_numbers hide) (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
       (property "Reference" "C" (id 0) (at 0.635 2.54 0)
