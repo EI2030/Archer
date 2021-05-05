@@ -2,7 +2,7 @@
 
   (uuid e1a25f97-cea2-41e8-a6cd-ed0a5244a11d)
 
-  (paper "A4")
+  (paper "A3")
 
   (title_block
     (title "Archer")
@@ -630,7 +630,7 @@
   (symbol (lib_id "Connector_Generic_MountingPin:Conn_01x28_MountingPin") (at 160.02 96.52 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 33b4f6fe-f2c4-43de-8277-0ab572b93cc3)
-    (property "Reference" "J?" (id 0) (at 162.56 99.1869 0)
+    (property "Reference" "J800" (id 0) (at 162.56 99.1869 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Conn_01x28_MountingPin" (id 1) (at 162.56 101.7269 0)
