@@ -5,13 +5,13 @@
   (paper "A3")
 
   (title_block
-    (title "Archer")
-    (date "2021-04-26")
+    (title "Archer Mainboard")
+    (date "2021-05-05")
     (rev "R0.1 draft")
-    (company "Copyright EI-2030 2021.")
+    (company "Copyright EI-2030 2021. / Engineer: Wenting Zhang")
     (comment 2 "MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.")
-    (comment 3 "source is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF")
-    (comment 4 "This source describes Open Hardware and is licensed under the CERN-OHL-S v2. This ")
+    (comment 3 "This source is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF")
+    (comment 4 "This source describes Open Hardware and is licensed under the CERN-OHL-S v2.")
   )
 
   (lib_symbols
@@ -572,7 +572,7 @@
     (property "Value" "100nF" (id 1) (at 183.261 81.153 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0201_0603Metric" (id 2) (at 181.3052 83.82 0)
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (id 2) (at 181.3052 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 180.34 80.01 0)
@@ -591,7 +591,7 @@
     (property "Value" "MICRO_SD(TFC-WPAPR-08)" (id 1) (at 178.5112 104.2162 0)
       (effects (font (size 1.524 1.524)) (justify left))
     )
-    (property "Footprint" "footprint:TFC-WPAPR-08" (id 2) (at 176.53 104.14 0)
+    (property "Footprint" "footprints:TFC-WPAPR-08" (id 2) (at 176.53 104.14 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 176.53 104.14 0)

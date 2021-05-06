@@ -5,13 +5,13 @@
   (paper "A3")
 
   (title_block
-    (title "Archer")
-    (date "2021-04-26")
+    (title "Archer Mainboard")
+    (date "2021-05-05")
     (rev "R0.1 draft")
-    (company "Copyright EI-2030 2021.")
+    (company "Copyright EI-2030 2021. / Engineer: Wenting Zhang")
     (comment 2 "MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.")
-    (comment 3 "source is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF")
-    (comment 4 "This source describes Open Hardware and is licensed under the CERN-OHL-S v2. This ")
+    (comment 3 "This source is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF")
+    (comment 4 "This source describes Open Hardware and is licensed under the CERN-OHL-S v2.")
   )
 
   (lib_symbols
@@ -975,7 +975,7 @@
     (property "Value" "10K" (id 1) (at 136.398 70.993 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 132.842 69.85 90)
+    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (id 2) (at 132.842 69.85 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 134.62 69.85 0)
