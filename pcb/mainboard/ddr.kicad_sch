@@ -6,7 +6,7 @@
 
   (title_block
     (title "Archer Mainboard")
-    (date "2021-05-05")
+    (date "2021-05-06")
     (rev "R0.1 draft")
     (company "Copyright EI-2030 2021. / Engineer: Wenting Zhang")
     (comment 2 "MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.")
@@ -5553,7 +5553,7 @@
   (symbol (lib_id "power:+1V35") (at 30.48 195.58 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 44b210df-dda5-46c0-ad71-3b5f54f6b829)
-    (property "Reference" "#PWR?" (id 0) (at 30.48 199.39 0)
+    (property "Reference" "#PWR0154" (id 0) (at 30.48 199.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+1V35" (id 1) (at 30.48 191.77 0))
@@ -5585,7 +5585,7 @@
   (symbol (lib_id "power:+1V35") (at 162.56 205.74 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b4ac1d47-29ad-4361-9494-33af84c8524c)
-    (property "Reference" "#PWR?" (id 0) (at 162.56 209.55 0)
+    (property "Reference" "#PWR0155" (id 0) (at 162.56 209.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+1V35" (id 1) (at 162.56 201.93 0))
