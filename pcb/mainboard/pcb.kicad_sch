@@ -1627,6 +1627,9 @@
     (path "/00000000-0000-0000-0000-00005db2122b/65022e91-c810-4c85-8e31-51849493beb9"
       (reference "J401") (unit 1) (value "MICRO_SD(TFC-WPAPR-08)") (footprint "footprints:TFC-WPAPR-08")
     )
+    (path "/00000000-0000-0000-0000-00005db2122b/809a744b-9924-45de-a936-7a63e5f9a5a2"
+      (reference "J402") (unit 1) (value "Bus_M.2_Socket_B") (footprint "footprints:M2_BKEY")
+    )
     (path "/00000000-0000-0000-0000-00005db2122b/8e9965b3-cc0f-49f8-8a93-ecfb33805302"
       (reference "R401") (unit 1) (value "33") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
@@ -2300,19 +2303,19 @@
       (reference "U901") (unit 1) (value "RTL8723BS") (footprint "footprints:RL-SM02BD(RTL8723BS)")
     )
     (path "/b26c5350-0a1b-4f6e-a781-295a7d02674e/849eba2e-74ee-4bad-b192-a6434887e8ce"
-      (reference "U1001") (unit 1) (value "XC7A15T-FTG256") (footprint "")
+      (reference "U1001") (unit 1) (value "DNP/XC7A15T-FTG256") (footprint "Package_BGA:Xilinx_FTG256")
     )
     (path "/b26c5350-0a1b-4f6e-a781-295a7d02674e/02d781d0-f75d-43e6-be4f-dece3ccb7463"
-      (reference "U1001") (unit 2) (value "XC7A15T-FTG256") (footprint "")
+      (reference "U1001") (unit 2) (value "DNP/XC7A15T-FTG256") (footprint "Package_BGA:Xilinx_FTG256")
     )
     (path "/b26c5350-0a1b-4f6e-a781-295a7d02674e/2833bf15-5663-4533-8220-336203c51c70"
-      (reference "U1001") (unit 3) (value "XC7A15T-FTG256") (footprint "")
+      (reference "U1001") (unit 3) (value "DNP/XC7A15T-FTG256") (footprint "Package_BGA:Xilinx_FTG256")
     )
     (path "/b26c5350-0a1b-4f6e-a781-295a7d02674e/0fa92016-bd1d-4198-82ae-87f25731be1b"
-      (reference "U1001") (unit 4) (value "XC7A15T-FTG256") (footprint "")
+      (reference "U1001") (unit 4) (value "DNP/XC7A15T-FTG256") (footprint "Package_BGA:Xilinx_FTG256")
     )
     (path "/b26c5350-0a1b-4f6e-a781-295a7d02674e/e9aec907-365b-4326-886c-8b45218904b1"
-      (reference "U1002") (unit 1) (value "MT41K64M16HA") (footprint "Package_BGA:BGA-96_9.0x13.0mm_Layout2x3x16_P0.8mm")
+      (reference "U1002") (unit 1) (value "DNP/MT41K64M16HA") (footprint "Package_BGA:BGA-96_9.0x13.0mm_Layout2x3x16_P0.8mm")
     )
   )
 )
