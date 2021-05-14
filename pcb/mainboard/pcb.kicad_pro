@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.12
+          "min_clearance": 0.127
         }
       },
       "diff_pair_dimensions": [
@@ -55,7 +55,10 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "clearance|214183469|128543161|a0ccd3dd-32aa-4cc5-af48-cb15f168ff24|a7434f79-5124-4d54-aba4-a350b31693a2",
+        "clearance|216984269|129037361|4d65c3c0-6f2e-420c-80c8-88a64fbb329b|a7434f79-5124-4d54-aba4-a350b31693a2"
+      ],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
@@ -366,7 +369,7 @@
       {
         "bus_width": 12.0,
         "clearance": 0.0995,
-        "diff_pair_gap": 0.25,
+        "diff_pair_gap": 0.1,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
         "line_style": 0,
@@ -383,7 +386,7 @@
       {
         "bus_width": 12.0,
         "clearance": 0.0995,
-        "diff_pair_gap": 0.25,
+        "diff_pair_gap": 0.1,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
         "line_style": 0,
@@ -528,7 +531,7 @@
       {
         "bus_width": 12.0,
         "clearance": 0.0995,
-        "diff_pair_gap": 0.25,
+        "diff_pair_gap": 0.0995,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
         "line_style": 0,
@@ -574,7 +577,7 @@
       {
         "bus_width": 12.0,
         "clearance": 0.0995,
-        "diff_pair_gap": 0.25,
+        "diff_pair_gap": 0.0995,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
         "line_style": 0,
@@ -615,7 +618,7 @@
       {
         "bus_width": 12.0,
         "clearance": 0.0995,
-        "diff_pair_gap": 0.25,
+        "diff_pair_gap": 0.0995,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
         "line_style": 0,
@@ -656,7 +659,7 @@
       {
         "bus_width": 12.0,
         "clearance": 0.0995,
-        "diff_pair_gap": 0.25,
+        "diff_pair_gap": 0.1,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
         "line_style": 0,

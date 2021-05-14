@@ -9,7 +9,7 @@ _autosave*
 gerber/
 pcb-backups/
 pcb.step
-pcb.pdf
+*.pdf
 
 # Xilinx ISE files
 obj_dir/
