@@ -10,16 +10,16 @@ The specification listed are preliminary and subject to change. Note this is onl
 - SoC: NXP i.MX 7Dual (2x ARM Cortex-A7 @ 1.2GHz)
 - RAM: 2x Micron MT41K256M16 (1GB in total, DDR3)
 - Flash: None (prototype designed to always boots from TF card)
-- HDD: 1x NGFF M.2 B-key (PCIe NVMe)
+- HDD: None
 - Network: RTL8273BS (802.11n + BT)
 - Main Screen: E Ink ED103TC2 (10.3" 1872x1404) with capactive touch screen
 - Sub Screen: ER-TFT0784-1 (7.84" 1280x400) with capactive touch screen
 - Screen Controller: i.MX7 integrated EPDC
-- Battery: 2x User replaceable 18650 battery
+- Battery: 2x User replaceable LiFePO4 18650 battery
 - EC: LPC55S28
 - Ports:
   - USB 2.0 Type A Host x1
-  - USB 2.0 Type C DRP with DP Alt Mode and Power Delivery x1
+  - USB 2.0 Type C UFP with Power Delivery x1
   - USB 2.0 Micro B Serial Debug Console x1
   - TF card slot
 
@@ -45,11 +45,11 @@ The specification listed are preliminary and subject to change. Note this is onl
 
 R0.1 chassis design in progress. Not yet printed.
 
-![case-design](https://github.com/ei2030/Archer/raw/main/assets/r0p1_case_design.jpg)
+![case-design](https://github.com/ei2030/Archer/raw/main/assets/r0p1_case_design.png)
 
 ## Motherboard
 
-R0.1 schematics design in progress. Not yet assembled.
+R0.1 PCB design finished. Sent to fab.
 
 # Legalese
 
