@@ -1,5 +1,4 @@
-Archer
-======
+![banner](https://github.com/ei2030/Archer/raw/main/assets/banner.png)
 
 Archer is the codename of our 1st EPD laptop prototype with custom-designed motherboard and 3D-printed chassis.
 
